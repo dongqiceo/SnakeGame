@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1400" bgColorEnabled="true" bgColor="#cccccc">
+  <displayList>
+    <graph id="n4_eh82" name="food" xy="362,567" size="100,100" type="eclipse" lineSize="0" lineColor="#ffffff00" fillColor="#ffff9933"/>
+    <text id="n3_ofax" name="score" xy="216,5" size="258,72" fontSize="50" color="#ff0000" autoSize="none" text="0"/>
+  </displayList>
+</component>

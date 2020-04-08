@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="26b6p1xo" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="ofax2" name="MainUI.xml" path="/" exported="true"/>
+    <image id="ofax3" name="loading.jpg" path="/img/" exported="true"/>
+    <image id="ofax6" name="star.png" path="/img/" exported="true" scale9grid="65,65,130,130"/>
+    <component id="ofax7" name="Button1.xml" path="/" exported="true"/>
+    <component id="ofax0" name="GameUI.xml" path="/" exported="true"/>
+    <component id="o1gg8" name="GameOverUI.xml" path="/" exported="true"/>
+    <image id="qpc5d" name="restart.png" path="/img/" exported="true"/>
+    <component id="mly1e" name="ButtonImage.xml" path="/" exported="true"/>
+    <component id="dgb1j" name="Button2Home.xml" path="/"/>
+  </resources>
+  <publish name="test"/>
+</packageDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1400" bgColor="#000000">
+  <displayList>
+    <graph id="n10_o1gg" name="mask" xy="0,0" size="800,1400" locked="true" alpha="0.5" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <richtext id="n15_qpc5" name="n15" xy="0,338" size="800,212" font="Microsoft JhengHei" fontSize="81" color="#00ff00" align="center" vAlign="middle" autoSize="none" bold="true" text="重新开始&#xA;"/>
+    <component id="n16_mly1" name="ReStart" src="mly1e" fileName="ButtonImage.xml" xy="147,580" size="512,512" scale="0.5,0.5">
+      <relation target="" sidePair="width-width,height-height"/>
+      <Button icon="ui://26b6p1xoqpc5d"/>
+    </component>
+    <component id="n21_dgb1" name="BackHome" src="dgb1j" fileName="Button2Home.xml" xy="259,1128" size="300,100">
+      <Button title="回到主界面" titleFontSize="30"/>
+    </component>
+  </displayList>
+  <relation target="" sidePair="width-width,height-height"/>
+</component>

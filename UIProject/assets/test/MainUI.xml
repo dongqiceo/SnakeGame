@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,1400">
+  <displayList>
+    <image id="n0_ofax" name="n0" src="ofax3" fileName="img/loading.jpg" xy="0,4" size="802,1402" group="n9_q8p4"/>
+    <text id="n2_ofax" name="n2" xy="209,178" size="504,295" group="n9_q8p4" font="Microsoft YaHei" fontSize="100" color="#33ccff" autoSize="none" bold="true" strokeColor="#ffffff" text="贪吃蛇"/>
+    <group id="n9_q8p4" name="back" xy="0,4" size="802,1402" collapsed="true"/>
+    <component id="n7_ofax" name="startBtn" src="ofax7" fileName="Button1.xml" xy="312,1104"/>
+  </displayList>
+</component>
